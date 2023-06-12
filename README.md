@@ -17,3 +17,10 @@ La fonction convert_text_to_speech(text, output_file) est appelée avec les argu
 Enfin, le message 'Conversion terminée !' est affiché pour indiquer que la conversion a été effectuée avec succès.
 
 En résumé, ce script prend un fichier texte en français, utilise la bibliothèque gTTS pour le convertir en audio, puis enregistre le fichier audio résultant au format WAV.
+
+------------------
+
+**Comment l'utiliser**
+
+Placer le script dans le même dossier que le fichier TXT auquel vous voulez convertir en WAV
+Ouvrir un terminal et exécuter le script avec la commande: **python3 "Convertir un fichier texte en audio.py"**
